@@ -1,60 +1,49 @@
-# 👋 Hi, I'm Layappa
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## 📌 About Me
+###
 
-I am **Layappa**, a **21-year-old** engineering student currently pursuing my **8th semester under VTU**. I am passionate about technology and data-driven problem-solving, with a strong interest in **Data Science** and **Data Analytics**.
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am currently doing an **internship at Inventron**, where I am working in the **AI & Machine Learning (AIML)** domain. This experience has helped me gain hands-on exposure to real-world data problems and intelligent systems.
+###
 
----
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 🎯 Areas of Interest
+###
 
-* Data Science
-* Data Analytics
-* Machine Learning & Deep Learning
-* Artificial Intelligence
-* Business Intelligence
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🧪 Projects
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-I have worked on several **end-to-end projects**, including:
+###
 
-### 📊 Data Analytics Projects
+<br clear="both">
 
-* **Customer Behavior Analytics** – Analyzed customer data to identify patterns, trends, and insights for better decision-making.
-* **ShopperSense Analytics** – Focused on understanding shopper behavior using data analytics techniques.
-* **And more end-to-end analytics projects** involving data collection, cleaning, analysis, and visualization.
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
-### 🤖 Machine Learning & Deep Learning Projects
-
-* **Face Recognition Attendance System** – Built using Machine Learning and Deep Learning techniques to automate attendance tracking through facial recognition.
-
----
-
-## 🛠️ Technical Skills
-
-* **Programming Languages:** Python, Java
-* **Data Analytics & BI Tools:** Power BI, Microsoft Excel
-* **Databases:** SQL
-* **Data Processing:** Data Cleaning, Data Preprocessing
-* **Machine Learning:** Supervised & Unsupervised Learning
-* **Deep Learning:** Neural Networks, CNNs
-* **Version Control:** Git & GitHub
-* **DevOps & Tools:** Docker
-
----
-
-## 🚀 Career Goal
-
-To build a strong career in **Data Science and Analytics**, where I can apply my analytical skills, machine learning knowledge, and problem-solving abilities to create impactful, data-driven solutions.
-
----
-
-## 📫 Connect With Me
-
-Feel free to explore my repositories and projects. I am always open to learning, collaboration, and new opportunities.
-
-⭐ *Thank you for visiting my profile!*
+###
